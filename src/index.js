@@ -5,8 +5,8 @@ import PrimaryButton, {SecondaryButton, TertiaryButton} from './components/Butto
 const App = () => (
     <div>
         <PrimaryButton>Hello World!</PrimaryButton>
-        <SecondaryButton>Submit</SecondaryButton>
-        <TertiaryButton>X</TertiaryButton>
+        <SecondaryButton>Goodbye World!</SecondaryButton>
+        <TertiaryButton>Hey World!</TertiaryButton>
     </div>
 
 )
